@@ -1,0 +1,8 @@
+Flask
+Pillow
+onnxruntime
+numpy
+requests
+torch
+torchvision
+urllib3
